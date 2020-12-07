@@ -1,1 +1,1 @@
-# api-rails-onebitcode
+Curso: https://onebitcode.com/api-completa-rails/
