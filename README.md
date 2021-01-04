@@ -1,8 +1,8 @@
 Curso: https://onebitcode.com/api-completa-rails/
 
-# [Curso API Completa em Rail(Onebitcode)](https://onebitcode.com/api-completa-rails/)
+# [Curso API Completa em Rails(Onebitcode)](https://onebitcode.com/api-completa-rails/)
 
-👋 Olá, Seja Bem-vindo(a) ao Curso API Completa em Rail(Onebitcode) com testes unitários com Rspec.
+👋 Olá, Seja Bem-vindo(a) ao Curso API Completa em Rails(Onebitcode) com testes unitários com Rspec.
 
 # Aulas
 
